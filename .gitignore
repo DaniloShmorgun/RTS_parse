@@ -1,0 +1,7 @@
+venf/
+__pycache__/
+*.xlsx
+*.csv
+*.json
+*.txt
+*.html
