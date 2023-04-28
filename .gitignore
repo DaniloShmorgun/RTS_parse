@@ -1,4 +1,4 @@
-venf/
+venv/
 __pycache__/
 *.xlsx
 *.csv
